@@ -1,0 +1,58 @@
+[
+    {
+        "analogie": "un Jeu Vidéo",
+        "Valeuranalogie": " The Legend of Zelda ",
+        "justify": "Pour son mélange captivant d'aventure, d'énigmes stimulantes, et de musique envoûtante. Ce jeu incarne une expérience immersive et épique que je trouve irrésistible. Il représente pour moi l'essence même du plaisir vidéoludique, avec son monde expansif, ses histoires riches, et son héritage emblématique..",
+        "img": "img/Zelda.png",
+        "id": "zelda",
+        "down": "\u0023animal"
+    },
+    {
+        "analogie": "un Animal",
+        "Valeuranalogie": " Un Chat ", 
+        "justify": " Cela reflète ma nature indépendante et curieuse. Comme les chats, j'apprécie le calme et la tranquillité ",
+        "img": "img/chat.png",
+        "id": "animal",
+        "down": "\u0023creature"
+    },
+    {
+        "analogie": "Une Creature Legendaire",
+        "Valeuranalogie": " Un Dragon ",
+        "justify": "  Cela symbolise ma puissance intérieure, ma sagesse et ma capacité à surmonter les défis ",
+        "img": "img/dragon.png",
+        "id": "creature",
+        "down": "\u0023perso"
+    },
+    {
+        "analogie": "Un Personnage Fictif",
+        "Valeuranalogie": " Toji ",
+        "justify": " Sa personnalité franche et non conventionnelle m'attire. Comme Toji, je préfère suivre mon propre code moral et faire des choix pragmatiques, même si cela signifie aller à l'encontre des normes établies. Son pragmatisme et son attitude détachée masquent une profonde compréhension du monde qui l'entoure. " ,
+        "img": " img/toji.jpg" ,
+        "id": "perso",
+        "down": "\u0023musique"
+    },
+    {
+        "analogie": "Une Musique",
+        "Valeuranalogie": "<a href=\"https://youtu.be/04ZbkROUsLc\">  Again (Yui) | ENGLISH ver. | GoldenBoys</a>",
+        "justify": " Comme cette chanson, je crois en la capacité de surmonter les obstacles et de recommencer, toujours prêt à affronter de nouveaux départs avec optimisme ",
+        "img": "img/musique.png",
+        "id": "musique",
+        "down": "\u0023boisson"
+    },
+    {
+        "analogie": "Une Boisson",
+        "Valeuranalogie": " Un Bubble Tea ",
+        "justify": " Il y a une diversité de saveurs et de textures qui me représentent. Les perles de tapioca au fond du verre symbolisent ma profondeur et mes facettes variées. Les bulles colorées représentent ma personnalité vive et dynamique ",
+        "img": "img/bubble-tea.png",
+        "id": "boisson",
+        "down": "\u0023gif"
+    },
+    {
+        "analogie": "Un GIF",
+        "Valeuranalogie": " Nyan Cat",
+        "justify": "  Je cherche à répandre la positivité et la bonne humeur dans tout ce que je fais. ",
+        "img": "img/nyan-cat.png",
+        "id": "gif",
+        "down": "\u0023vous"
+    }
+]
